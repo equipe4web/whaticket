@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WhaTicket Versão Saas com Módulo Kanban, Modo Noturno e as seguintes integrações:</br>
 
 Baseado no Whaticket Gold da PLW Designer
@@ -117,3 +118,6 @@ https://drive.google.com/file/d/1Kjd-9NurK-7gw7_22-uIsZoB0MZ74YFp/view?usp=drive
 ```
 Personalizações:</br>
 As instruções para alteração de cores, logo, icones e nome da instalação estão nos arquivos de instruções.
+=======
+# whaticket
+>>>>>>> 2eea5ab1ee837775b1c8dfb31a3f60dcfba80820
