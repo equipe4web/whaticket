@@ -1,10 +1,6 @@
 <<<<<<< HEAD
 # WhaTicket Versão Saas com Módulo Kanban, Modo Noturno e as seguintes integrações:</br>
 
-Baseado no Whaticket Gold da PLW Designer
-
-Distribuido por Launcher & Co.
-
 🗣️ DialogFlow</br>
 🔄 N8N</br>
 🌐 WebHooks</br>
